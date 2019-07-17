@@ -10,3 +10,6 @@ It will auto-add the amount of each transactions for the month.
 
 
 Thanks for being a stellar Intern!
+
+
+PS. you need node.js to run this script
